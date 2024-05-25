@@ -1,0 +1,127 @@
+* {
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #323232;
+}
+
+.plan_header {
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 0;
+    color: #fff;
+}
+
+.header_extension {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    color: #fff;
+}
+
+.plan_explanation {
+    font-size: 12px;
+    text-align: center;
+    color: #919191;
+    margin-bottom: 70px;
+}
+
+.plan_container {
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+    width: 1000px;
+}
+
+.plan_model {
+    background-color: #5783c0;
+    color: #fff;
+    margin-right: 40px;
+    padding-bottom: 30px;
+    width: 300px;
+    display: inline-block;
+}
+
+
+.plan_model:nth-child(2) {
+    background-color: #4fbbbd;
+}
+
+.plan_model:nth-child(3) {
+    background-color: #e83e6f;
+    margin-right: 0;
+}
+
+.Starter_header {
+    text-align: center;
+    background-color: #fff;
+    color: #5983b3;
+    width: 230px;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: -20px;
+    border-radius: 10px;
+}
+
+
+
+.Business_header {
+    text-align: center;
+    background-color: #fff;
+    color: #4fbbbd;
+    width: 230px;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: -20px;
+    border-radius: 10px;
+}
+
+
+.eCommerce_header {
+    text-align: center;
+    background-color: #fff;
+    color: #e83e6f;
+    width: 230px;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: -20px;
+    border-radius: 10px;
+}
+
+
+
+.plan_price {
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 0;
+}
+
+.planType_Container {
+    list-style-type: none;
+    margin: 40px 0;
+    padding: 0;
+}
+
+.planType_Container p {
+    font-weight: 200;
+    font-size: 14px;
+    margin: 30px 0 ;
+    text-align: center;
+}
+
+.buynow_Btn {
+    display: block;
+    width: 140px;
+    padding: 15px 35px;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin: 0 auto;
+    background-color: #fff;
+    color: #000;
+    text-decoration: none;
+    border-radius: 10px;
+}
